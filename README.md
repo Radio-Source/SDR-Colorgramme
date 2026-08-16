@@ -36,9 +36,9 @@ An image of the "time zone" waterfall is also saved—with a delay—in a
 The images in these two subfolders are organized by year/month/day, and the timestamp
 is included in the image filename.
 
-Windows install :  Download https://www.rmob.org/file/SDR_Colorgramme_v1_Setup.zip unzip and run setup
+**Windows install :**  Download https://www.rmob.org/file/SDR_Colorgramme_v1_Setup.zip unzip and run setup
 
-Linux Install :
+**Linux Install :**
 If you have allready installed and tested our SDR now you can install  SDR_Colorgramme v 1.0 by typing this command in a terminal :
 ```bash bash <(curl -s https://www.rmob.org/download/install.sh)```
 The download and installation process is automatic and guided.
